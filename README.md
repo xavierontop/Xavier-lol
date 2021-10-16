@@ -16,7 +16,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=xmv1&theme=nord&margin-w=15&margin-h=15&column=7" />
 </p>
 
-<a href="https://discord.com/users/878801810981265421">
+<a href="https://discord.com/users/868997319817842849">
   <p align="center">
     <img src="https://lanyard-profile-readme.vercel.app/api/878801810981265421" />
   </p>
